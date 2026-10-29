@@ -1,0 +1,12 @@
+{
+  "id": "obsidian-spaced-repetition",
+  "name": "Spaced Repetition",
+  "version": "1.15.4-vi.1",
+  "minAppVersion": "1.2.8",
+  "description": "Ôn tập thẻ ghi nhớ và toàn bộ ghi chú theo phương pháp lặp lại ngắt quãng. Sắp xếp thẻ thành các bộ và học đúng những thẻ cần ôn.",
+  "author": "Stephen Mwangi",
+  "authorUrl": "https://github.com/st3v3nmw",
+  "helpUrl": "https://stephenmwangi.com/obsidian-spaced-repetition/",
+  "isDesktopOnly": false,
+  "fundingUrl": "https://ko-fi.com/M4M44DEN6"
+}
